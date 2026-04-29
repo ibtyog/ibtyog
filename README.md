@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">A passionate beginner developer</h3>
+# Hi there, I'm Piotr! 👋
+
+I am a **Systems Engineering** student at **Wrocław University of Science and Technology** (Data Engineering track) and an aspiring **Backend Developer**. I bridge the gap between robust software architecture and data-driven insights.
+
+### 🚀 About Me
+- 🎓 **Student:** Expected B.Eng. in 2028 @ Politechnika Wrocławska.
+- 💻 **Backend Developer:** Active member of **Solvro Student Science Club**, where I build modular systems.
+- 🧠 **AI Explorer:** Passionate about Data Science foundations and Machine Learning.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, JavaScript, SQL.
+- **Backend:** NestJS, PostgreSQL, Swagger (API Documentation).
+- **Data Science:** Pandas, NumPy, SciPy, Streamlit, scikit-learn.
+- **Tools:** Git, GitHub.
+
+### 📂 Featured Projects
+- **[Eventownik (Solvro)](https://eventownik.solvro.pl/):** Currently developing a modular backend system for event organization. Responsible for CRUD logic, unit testing, and API documentation for a cross-functional team (FE/UX/UI).
+
+### 🎤 Community & Teaching
+- **Guest Lecturer:** Conducted a session for the **"From Zero to Backend Developer"** course (Summer 2025).
+- **Impact:** Taught **50+ participants** about NestJS setup and architecture through live-coding.
+- **Resources:** Authored technical materials and API documentation available at [Solvro Docs](https://docs.solvro.pl/sections/backend/od-zera-do-backend-developera/podstawy-api/).
+
+### 📫 How to reach me:
+- **[LinkedIn](www.linkedin.com/in/piotr-hirkyj-55681a357)**
 
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
