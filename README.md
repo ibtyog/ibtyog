@@ -15,6 +15,7 @@ I am a **Systems Engineering** student at **Wrocław University of Science and T
 
 ### 📂 Featured Projects
 - **[Eventownik (Solvro)](https://eventownik.solvro.pl/):** Currently developing a modular backend system for event organization. Responsible for CRUD logic, unit testing, and API documentation for a cross-functional team (FE/UX/UI).
+- **[Reinforced snake](https://github.com/ibtyog/Reinforced-snake):** an end-to-end Reinforcement Learning (RL) project that trains an artificial intelligence agent to master the classic game of Snake.
 
 ### 🎤 Community & Teaching
 - **Guest Lecturer:** Conducted a session for the **"From Zero to Backend Developer"** course (Summer 2025).
